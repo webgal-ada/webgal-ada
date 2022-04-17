@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webgal-ada
 - 👀 I’m interested in finding a mentor for my Javascript learning.
-- 🌱 I’m currently freelancing in Computer Graphics.
+- 🌱 I’m currently freelancing in Electronic Publishing, NYC.
 
 <!---
 webgal-ada/webgal-ada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
